@@ -1,8 +1,8 @@
 
-## Install
+## Clone
 
 ```bash
-git https://github.com/rsverma91
+https://github.com/rsverma91/cartAppReactRedux
 ```
 
 ## Usage
